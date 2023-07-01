@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957384822844",
+    "project_id": "batuhantosun-d5232",
+    "storage_bucket": "batuhantosun-d5232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957384822844:android:54afe5aeb65890f3033339",
+        "android_client_info": {
+          "package_name": "com.batuhantosun.deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957384822844-dea3v00enapevr263m26lm496upefte0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ5hVGQktPNB3GSECSKJ_gc6mE8xPTi84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957384822844-dea3v00enapevr263m26lm496upefte0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
