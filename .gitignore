@@ -70,3 +70,24 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+.idea
+**/node_modules/*
+**/.firebase
+**/.firebaserc
+**/.runtimeconfig.json
+*/npm-debug.log
+lerna-debug.log
+*~
+service-account-credentials.json
+**/package-lock.json
+# keep the root package-lock so that tools are consistent
+!/package-lock.json
+**/ui-debug.log
+**/database-debug.log
+**/firebase-debug.log
+**/pubsub-debug.log
+**/tsconfig-compile.json
+yarn.lock
+**/.DS_Store
